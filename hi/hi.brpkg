@@ -1,0 +1,5 @@
+[hi]
+name = hi
+main = main.py
+description = My Test Package
+version = 1.0.0
