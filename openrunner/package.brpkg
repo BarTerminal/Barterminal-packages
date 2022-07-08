@@ -3,6 +3,7 @@ name = openrunner
 version = 0.0.1
 description = Runs python files
 main = bin/main.py
+ignore = ignore.brignore
 
 [python_dependencies]
 Flask=1.0.2
